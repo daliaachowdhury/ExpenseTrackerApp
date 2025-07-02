@@ -29,7 +29,7 @@ This app helps you manage your finances by adding, categorizing, and tracking yo
 
 ## 🚀 How to Use
 
-1. Open the [Live App](https://daliaachowdhury.github.io/expense-tracker-app/)  
+1. Open the [[Live App](http://127.0.0.1:5500/EXPENSE%20TRACKER/expense%20tracker.html)](https://daliaachowdhury.github.io/expense-tracker-app/)  
 2. Select **Income** or **Expense**
 3. Fill in **Description**, **Category**, **Amount**, and **Date**
 4. Click “Add Transaction”
